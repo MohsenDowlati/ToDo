@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="copy_right">Developed By Mohsen</string>
+    <string name="about_title">about</string>
+</resources>
